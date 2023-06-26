@@ -1,0 +1,3 @@
+[submodule "notesfrontend"]
+	path = notesfrontend
+	url = https://github.com/PARAVPREET17/Notes-App
